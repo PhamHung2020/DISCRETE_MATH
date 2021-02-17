@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ColoringGraphVS.CSharp/1.0.0": {
+        "runtime": {
+          "ColoringGraphVS.CSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ColoringGraphVS.CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

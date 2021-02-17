@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\ACER\Desktop\ROBOTVS\Source.cpp(84,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ACER\Desktop\ROBOTVS\Source.cpp(232,18): warning C4018: '<': signed/unsigned mismatch
+  ROBOTVS.vcxproj -> C:\Users\ACER\Desktop\ROBOTVS\Debug\ROBOTVS.exe

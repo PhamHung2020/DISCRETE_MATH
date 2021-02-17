@@ -1,0 +1,13 @@
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\3. SearchOnGraph\SearchOnGraphCSharp\SearchOnGraphCSharp\bin\Debug\netcoreapp3.1\SearchOnGraphCSharp.exe
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\3. SearchOnGraph\SearchOnGraphCSharp\SearchOnGraphCSharp\bin\Debug\netcoreapp3.1\SearchOnGraphCSharp.deps.json
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\3. SearchOnGraph\SearchOnGraphCSharp\SearchOnGraphCSharp\bin\Debug\netcoreapp3.1\SearchOnGraphCSharp.runtimeconfig.json
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\3. SearchOnGraph\SearchOnGraphCSharp\SearchOnGraphCSharp\bin\Debug\netcoreapp3.1\SearchOnGraphCSharp.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\3. SearchOnGraph\SearchOnGraphCSharp\SearchOnGraphCSharp\bin\Debug\netcoreapp3.1\SearchOnGraphCSharp.dll
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\3. SearchOnGraph\SearchOnGraphCSharp\SearchOnGraphCSharp\bin\Debug\netcoreapp3.1\SearchOnGraphCSharp.pdb
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\3. SearchOnGraph\SearchOnGraphCSharp\SearchOnGraphCSharp\obj\Debug\netcoreapp3.1\SearchOnGraphCSharp.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\3. SearchOnGraph\SearchOnGraphCSharp\SearchOnGraphCSharp\obj\Debug\netcoreapp3.1\SearchOnGraphCSharp.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\3. SearchOnGraph\SearchOnGraphCSharp\SearchOnGraphCSharp\obj\Debug\netcoreapp3.1\SearchOnGraphCSharp.AssemblyInfo.cs
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\3. SearchOnGraph\SearchOnGraphCSharp\SearchOnGraphCSharp\obj\Debug\netcoreapp3.1\SearchOnGraphCSharp.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\3. SearchOnGraph\SearchOnGraphCSharp\SearchOnGraphCSharp\obj\Debug\netcoreapp3.1\SearchOnGraphCSharp.dll
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\3. SearchOnGraph\SearchOnGraphCSharp\SearchOnGraphCSharp\obj\Debug\netcoreapp3.1\SearchOnGraphCSharp.pdb
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\3. SearchOnGraph\SearchOnGraphCSharp\SearchOnGraphCSharp\obj\Debug\netcoreapp3.1\SearchOnGraphCSharp.genruntimeconfig.cache

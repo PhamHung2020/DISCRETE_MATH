@@ -1,0 +1,13 @@
+graph dothi
+{
+	1 -- 2
+	2 -- 3
+	3 -- 4
+	4 -- 1
+	1 -- 5
+	1 [fillcolor=BlueViolet, style=filled];
+	2 [fillcolor=Blue, style=filled];
+	3 [fillcolor=BlueViolet, style=filled];
+	4 [fillcolor=Blue, style=filled];
+	5 [fillcolor=Blue, style=filled];
+}

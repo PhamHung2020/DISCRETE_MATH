@@ -1,0 +1,13 @@
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\1.TreeCompression\PruferCodeCSharp\bin\Debug\netcoreapp3.1\PruferCodeCSharp.exe
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\1.TreeCompression\PruferCodeCSharp\bin\Debug\netcoreapp3.1\PruferCodeCSharp.deps.json
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\1.TreeCompression\PruferCodeCSharp\bin\Debug\netcoreapp3.1\PruferCodeCSharp.runtimeconfig.json
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\1.TreeCompression\PruferCodeCSharp\bin\Debug\netcoreapp3.1\PruferCodeCSharp.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\1.TreeCompression\PruferCodeCSharp\bin\Debug\netcoreapp3.1\PruferCodeCSharp.dll
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\1.TreeCompression\PruferCodeCSharp\bin\Debug\netcoreapp3.1\PruferCodeCSharp.pdb
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\1.TreeCompression\PruferCodeCSharp\obj\Debug\netcoreapp3.1\PruferCodeCSharp.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\1.TreeCompression\PruferCodeCSharp\obj\Debug\netcoreapp3.1\PruferCodeCSharp.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\1.TreeCompression\PruferCodeCSharp\obj\Debug\netcoreapp3.1\PruferCodeCSharp.AssemblyInfo.cs
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\1.TreeCompression\PruferCodeCSharp\obj\Debug\netcoreapp3.1\PruferCodeCSharp.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\1.TreeCompression\PruferCodeCSharp\obj\Debug\netcoreapp3.1\PruferCodeCSharp.dll
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\1.TreeCompression\PruferCodeCSharp\obj\Debug\netcoreapp3.1\PruferCodeCSharp.pdb
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\1.TreeCompression\PruferCodeCSharp\obj\Debug\netcoreapp3.1\PruferCodeCSharp.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\2.Coloring\ColoringGraphVS\ColoringGraphVS.CSharp\bin\Debug\net5.0\ColoringGraphVS.CSharp.exe
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\2.Coloring\ColoringGraphVS\ColoringGraphVS.CSharp\bin\Debug\net5.0\ColoringGraphVS.CSharp.deps.json
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\2.Coloring\ColoringGraphVS\ColoringGraphVS.CSharp\bin\Debug\net5.0\ColoringGraphVS.CSharp.runtimeconfig.json
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\2.Coloring\ColoringGraphVS\ColoringGraphVS.CSharp\bin\Debug\net5.0\ColoringGraphVS.CSharp.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\2.Coloring\ColoringGraphVS\ColoringGraphVS.CSharp\bin\Debug\net5.0\ColoringGraphVS.CSharp.dll
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\2.Coloring\ColoringGraphVS\ColoringGraphVS.CSharp\bin\Debug\net5.0\ref\ColoringGraphVS.CSharp.dll
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\2.Coloring\ColoringGraphVS\ColoringGraphVS.CSharp\bin\Debug\net5.0\ColoringGraphVS.CSharp.pdb
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\2.Coloring\ColoringGraphVS\ColoringGraphVS.CSharp\obj\Debug\net5.0\ColoringGraphVS.CSharp.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\2.Coloring\ColoringGraphVS\ColoringGraphVS.CSharp\obj\Debug\net5.0\ColoringGraphVS.CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\2.Coloring\ColoringGraphVS\ColoringGraphVS.CSharp\obj\Debug\net5.0\ColoringGraphVS.CSharp.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\2.Coloring\ColoringGraphVS\ColoringGraphVS.CSharp\obj\Debug\net5.0\ColoringGraphVS.CSharp.AssemblyInfo.cs
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\2.Coloring\ColoringGraphVS\ColoringGraphVS.CSharp\obj\Debug\net5.0\ColoringGraphVS.CSharp.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\2.Coloring\ColoringGraphVS\ColoringGraphVS.CSharp\obj\Debug\net5.0\ColoringGraphVS.CSharp.dll
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\2.Coloring\ColoringGraphVS\ColoringGraphVS.CSharp\obj\Debug\net5.0\ref\ColoringGraphVS.CSharp.dll
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\2.Coloring\ColoringGraphVS\ColoringGraphVS.CSharp\obj\Debug\net5.0\ColoringGraphVS.CSharp.pdb
+C:\Users\ACER\Desktop\DISCRETE_MATH\PROJECTS\2.Coloring\ColoringGraphVS\ColoringGraphVS.CSharp\obj\Debug\net5.0\ColoringGraphVS.CSharp.genruntimeconfig.cache
